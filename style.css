@@ -11,7 +11,7 @@ a {
 .hero {
     width: 100%;
     height: 100vh;
-    background-image: url(/image/4683.jpg);
+    background-image: url(/image/black-frame-with-copy-space-top-view.jpg);
     background-repeat: no-repeat;
     background-size: 115% 160vh;
 }
@@ -30,7 +30,7 @@ nav ul li {
     padding: 10px 20px;
 }
 nav ul li a {
-    color: #1d1d24;
+    color: #fd4766;
     position: relative;
     padding: 5px 0;
 }
